@@ -1,4 +1,4 @@
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hi+I'm+Muhammad+Saqib+Khan;Frontend+Developer;I+build+cool+websites!)
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=green&center=true&vCenter=true&width=435&lines=Hi+I'm+Muhammad+Saqib+Khan;Frontend+Developer;I+build+cool+websites!)
 # 👋 Hi, I’m Muhammad Saqib Khan
 
 I'm a passionate **Frontend Developer** who loves building clean, modern, and responsive websites using:
