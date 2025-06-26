@@ -6,6 +6,7 @@ I'm a passionate **Frontend Developer** who loves building clean, modern, and re
 - ✅ HTML  
 - ✅ CSS  
 - ✅ JavaScript  
+- ✅ TypeScript 
 
 ## 🚀 About Me
 
