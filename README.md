@@ -26,6 +26,9 @@ I'm a passionate **Frontend Developer** who loves building clean, modern, and re
 
 - 🎯 You can also find similar content (like HTML/CSS/JS effects) on my TikTok:  
   [🎵 TikTok: @code_with_me_2](https://www.tiktok.com/@code_with_me_2?_t=ZN-8wp2VzybzYk&_r=1)
+  
+- 🎯 You can also find similar content (like HTML/CSS/JS effects) on my Twitter:  
+  [🎵 Twitter: @msaqibkhan000](https://x.com/msaqibkhan000)
 
 ## 🛠️ Tools & Technologies
 
