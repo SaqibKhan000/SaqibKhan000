@@ -44,4 +44,4 @@ I'm a passionate **Frontend Developer** who loves building clean, modern, and re
 
 ---
 
-Thanks for visiting my profile! 😊
+# Thanks for visiting my profile! 😊
